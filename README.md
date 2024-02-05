@@ -19,6 +19,10 @@
 
 [![Events - Show What You Know: Explain Your Program](thumbnails\nested_repeats.jpg)](https://youtu.be/oa8-z5TqKdU)
 
+### Variables
+
+[![Variables - Show What You Know: Explain Your Program](thumbnails\variables.jpg)](https://youtu.be/sTlGtL8bV_E)
+
 ### Teaching Programming Portfolio - Lesson Plan
 
 [![Teaching Programming Portfolio - Lesson Plan](thumbnails\TPP.jpg)](https://youtu.be/6RNgz6cNHaA)
