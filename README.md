@@ -23,6 +23,10 @@
 
 [![Variables - Show What You Know: Explain Your Program](thumbnails\variables.jpg)](https://youtu.be/sTlGtL8bV_E)
 
+### Conditional Loops
+
+[![Conditional Loops - Show What You Know: Explain Your Program](thumbnails\conditional_loops.jpg)](https://youtu.be/JAau4Ay0S1w)
+
 ### Teaching Programming Portfolio - Lesson Plan
 
 [![Teaching Programming Portfolio - Lesson Plan](thumbnails\TPP.jpg)](https://youtu.be/6RNgz6cNHaA)
