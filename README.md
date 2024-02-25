@@ -31,6 +31,10 @@
 
 [![If Else - Show What You Know: Explain Your Program](thumbnails\ifelse.jpg)](https://youtu.be/fpkFfHdXgYA)
 
+### Nested If Else
+
+[![Nested If Else - Show What You Know: Explain Your Program](thumbnails\nestedifelse.jpg)](https://youtu.be/lvR4Dg44F_0)
+
 ### Teaching Programming Portfolio - Lesson Plan
 
 [![Teaching Programming Portfolio - Lesson Plan](thumbnails\TPP.jpg)](https://youtu.be/6RNgz6cNHaA)
