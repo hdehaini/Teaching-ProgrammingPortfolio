@@ -35,9 +35,13 @@
 
 [![Nested If Else - Show What You Know: Explain Your Program](thumbnails\nestedifelse.jpg)](https://youtu.be/lvR4Dg44F_0)
 
-### Coompound Conditionals
+### Compound Conditionals
 
-[![Coompound Conditionals - Show What You Know: Explain Your Program](thumbnails\compoundconditionals.jpg)](https://youtu.be/e8FVmI5zA98)
+[![Compound Conditionals - Show What You Know: Explain Your Program](thumbnails\compoundconditionals.jpg)](https://youtu.be/e8FVmI5zA98)
+
+### Abstraction
+
+[![Abstraction - Show What You Know: Explain Your Program](thumbnails\abstraction.jpg)](https://youtu.be/jHTbFnzsVQg)
 
 ### Teaching Programming Portfolio - Lesson Plan
 
