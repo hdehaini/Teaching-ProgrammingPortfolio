@@ -43,6 +43,10 @@
 
 [![Abstraction - Show What You Know: Explain Your Program](thumbnails\abstraction.jpg)](https://youtu.be/jHTbFnzsVQg)
 
+### Lists
+
+[![Lists - Show What You Know: Explain Your Program](thumbnails\lists.jpg)](https://youtu.be/h24rbjVhbcI)
+
 ### Teaching Programming Portfolio - Lesson Plan
 
 [![Teaching Programming Portfolio - Lesson Plan](thumbnails\TPP.jpg)](https://youtu.be/6RNgz6cNHaA)
